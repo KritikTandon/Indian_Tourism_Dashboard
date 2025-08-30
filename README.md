@@ -1,2 +1,45 @@
-# Indian_Tourism_Dashboard
-I built an interactive Tourism Analytics Dashboard using Excel &amp; Power BI. The dashboard showcases insights on visitor trends, revenue generation, seasonal patterns, and destination ratings across states and cities. This project helped me strengthen skills in data cleaning and visualization.
+# Indian-Tourism-Dashboard (Interactive Dashboard Creation using MS Excel, Power BI)
+## Project Objective
+The objective of this project is to analyze and visualize India’s tourism data through an interactive dashboard.
+It aims to provide insights into visitor trends, popular destinations, and revenue contributions.
+The dashboard helps stakeholders identify growth opportunities and make data-driven decisions.
+Overall, it supports sustainable tourism development and strategic planning in India.
+
+## Dataset Used
+- <a href="https://github.com/KritikTandon/Indian_Tourism_Dashboard/blob/main/tourism.xlsx">Dataset</a>
+
+## Question (KPIs)
+-	How many domestic and international tourists visited India this year?
+-	Which state or city received the highest number of tourists?
+-	What is the year-on-year growth rate of tourist arrivals?
+-	How much revenue was generated from tourism, and how much came from foreign exchange earnings?
+-	What is the seasonal trend in tourist visits (peak and off-peak months)?
+-	Which countries contribute the most to foreign tourist arrivals in India?
+-	What is the average duration of stay for tourists?
+-	How do domestic and international tourism numbers compare across different states?
+-	What is the contribution of tourism to India’s GDP?
+-	Which tourist attractions are the most visited?
+
+## Dashboard Interaction
+-	<a href= "https://github.com/KritikTandon/Indian_Tourism_Dashboard/blob/main/Page-1.png">Page-1</a>
+-	<a href= "https://github.com/KritikTandon/Indian_Tourism_Dashboard/blob/main/Page-2.png">Page-2</a>
+-	<a href= "https://github.com/KritikTandon/Indian_Tourism_Dashboard/blob/main/Page-3.png">Page-3</a>
+-	<a href= "https://github.com/KritikTandon/Indian_Tourism_Dashboard/blob/main/Page-4.png">Page-4</a>
+
+## Process
+-	Data Import – Load the tourism dataset (single table) into Power BI.
+-	Data Cleaning – Check for missing values, duplicates, and ensure data consistency.
+-	Data Transformation – Create calculated columns and measures (e.g., total tourists, growth rate, revenue).
+-	Dashboard Creation – Design visuals like KPIs, maps, and charts using the cleaned table.
+-	Insight Generation – Analyze patterns such as top states, seasonal trends, and domestic vs. international arrivals.
+
+## Project Insights
+1.	Tourism in India shows significant variation across states, with a few states attracting the majority of visitors.
+2.	Domestic tourism forms a larger share compared to international arrivals, indicating strong local travel demand.
+3.	Seasonal patterns highlight peak tourist months, useful for planning resources and promotions.
+4.	Revenue from international tourists contributes greatly to foreign exchange earnings.
+5.	Growth trends suggest increasing opportunities for sustainable tourism and infrastructure development.
+6.	State-wise analysis reveals potential regions that need more focus on promotion and facilities.
+
+## Final Conclusion
+The Tourism India Dashboard successfully provides a clear and interactive view of India’s tourism landscape. By analyzing a single dataset, it highlights key insights such as top-performing states, seasonal visitor patterns, and the balance between domestic and international tourism. The dashboard helps identify growth opportunities, supports data-driven decision-making, and emphasizes the role of tourism in India’s economic development. Overall, this project demonstrates how visual analytics can simplify complex data and guide future strategies for sustainable tourism growth.
